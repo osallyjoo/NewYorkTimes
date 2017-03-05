@@ -1,0 +1,11 @@
+h1 {
+	text-align: center;
+}
+
+.container {
+	font-family: 'Open Sans', Arial, sans-serif;
+}
+
+.articleURL {
+	text-transform:uppercase;
+}
